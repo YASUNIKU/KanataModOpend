@@ -1,0 +1,12 @@
+{
+  "parent": "kanata:block/wire_block",
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ]
+    }
+  }
+}

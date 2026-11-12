@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "kanata:block/reinforced_alloy_plate_block"
+  }
+}

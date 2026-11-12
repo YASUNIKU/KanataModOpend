@@ -1,0 +1,9 @@
+{
+  "values": [
+    "kanata:reinforced_concrete_block",
+    "kanata:crumbling_reinforced_concrete_block",
+    "kanata:reinforced_concrete_stairs",
+    "kanata:reinforced_concrete_slab",
+    "kanata:reinforced_concrete_floor_block"
+  ]
+}

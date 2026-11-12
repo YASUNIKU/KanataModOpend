@@ -1,0 +1,36 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+
+[[mods]]
+modId = "kanata"
+version = "1.0.0"
+displayName = "Kanata Mod"
+description = '''
+A multi-dimensional survival mod featuring gate systems, tiered worlds,
+and cosmic exploration.
+'''
+
+# Optional: URL
+# displayURL="https://example.com"
+
+# Optional: Logo
+# logoFile="kanata_logo.png"
+
+# Dependencies
+[[dependencies.kanata]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.kanata]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "kanata.mixins.json"

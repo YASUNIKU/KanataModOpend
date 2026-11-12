@@ -1,0 +1,7 @@
+{
+  "parent": "kanata:block/template/front_and_side_block",
+  "textures": {
+    "front": "kanata:block/office_shelf_front",
+    "side": "kanata:block/office_cabinet_side"
+  }
+}

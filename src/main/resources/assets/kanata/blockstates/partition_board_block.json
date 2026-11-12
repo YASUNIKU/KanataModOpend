@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kanata:block/partition_board_block"
+    },
+    "facing=east": {
+      "model": "kanata:block/partition_board_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kanata:block/partition_board_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kanata:block/partition_board_block",
+      "y": 270
+    }
+  }
+}

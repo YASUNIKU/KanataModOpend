@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "kanata:block/reinforced_brick_block",
+    "side": "kanata:block/reinforced_brick_block",
+    "top": "kanata:block/reinforced_brick_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "kanata:block/wire_block"
+    },
+    "axis=x": {
+      "model": "kanata:block/wire_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z": {
+      "model": "kanata:block/wire_block",
+      "x": 90
+    }
+  }
+}

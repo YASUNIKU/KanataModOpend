@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "kanata:block/reinforced_alloy_plate_block",
+    "side": "kanata:block/reinforced_alloy_plate_block",
+    "top": "kanata:block/reinforced_alloy_plate_block"
+  }
+}

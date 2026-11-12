@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kanata:block/crumbling_reinforced_concrete_slab"
+    },
+    "type=double": {
+      "model": "kanata:block/crumbling_reinforced_concrete_block"
+    },
+    "type=top": {
+      "model": "kanata:block/crumbling_reinforced_concrete_slab_top"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "facing=north,half=upper": {
+      "model": "kanata:block/empty"
+    },
+    "facing=south,half=upper": {
+      "model": "kanata:block/empty"
+    },
+    "facing=east,half=upper": {
+      "model": "kanata:block/empty"
+    },
+    "facing=west,half=upper": {
+      "model": "kanata:block/empty"
+    },
+    "facing=north,half=lower": {
+      "model": "kanata:block/module_slot_adder"
+    },
+    "facing=south,half=lower": {
+      "model": "kanata:block/module_slot_adder",
+      "y": 180
+    },
+    "facing=east,half=lower": {
+      "model": "kanata:block/module_slot_adder",
+      "y": 90
+    },
+    "facing=west,half=lower": {
+      "model": "kanata:block/module_slot_adder",
+      "y": 270
+    }
+  }
+}

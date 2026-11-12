@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "kanata:block/reinforced_alloy_plate_block",
+    "pane": "kanata:block/reinforced_alloy_plate_block"
+  }
+}

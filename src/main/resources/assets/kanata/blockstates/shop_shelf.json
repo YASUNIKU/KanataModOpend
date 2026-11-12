@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kanata:block/shop_shelf"
+    },
+    "facing=east": {
+      "model": "kanata:block/shop_shelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kanata:block/shop_shelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kanata:block/shop_shelf",
+      "y": 270
+    }
+  }
+}

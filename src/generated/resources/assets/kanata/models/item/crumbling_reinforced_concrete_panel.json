@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kanata:block/crumbling_reinforced_concrete_block"
+  }
+}

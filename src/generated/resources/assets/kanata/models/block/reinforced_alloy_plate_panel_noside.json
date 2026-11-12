@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_glass_pane_noside",
+  "textures": {
+    "pane": "kanata:block/reinforced_alloy_plate_block"
+  }
+}

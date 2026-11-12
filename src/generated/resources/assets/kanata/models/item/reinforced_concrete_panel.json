@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kanata:block/reinforced_concrete_block"
+  }
+}

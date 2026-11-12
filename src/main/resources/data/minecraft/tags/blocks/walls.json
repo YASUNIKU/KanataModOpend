@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "kanata:reinforced_concrete_wall",
+    "kanata:crumbling_reinforced_concrete_wall",
+    "kanata:reinforced_concrete_floor_wall",
+    "kanata:reinforced_alloy_plate_wall",
+    "kanata:reinforced_brick_wall"
+  ]
+}

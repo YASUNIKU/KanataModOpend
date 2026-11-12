@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "kanata:block/reinforced_alloy_plate_block"
+  }
+}

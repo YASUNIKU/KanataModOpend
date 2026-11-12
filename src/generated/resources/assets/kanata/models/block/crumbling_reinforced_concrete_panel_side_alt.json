@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "kanata:block/crumbling_reinforced_concrete_block",
+    "pane": "kanata:block/crumbling_reinforced_concrete_block"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kanata:module_common",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "kanata:module_with_rarity",
+              "rarity": "common"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kanata:module_uncommon",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "kanata:module_with_rarity",
+              "rarity": "uncommon"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kanata:module_rare",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "kanata:module_with_rarity",
+              "rarity": "rare"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kanata:module_epic",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "kanata:module_with_rarity",
+              "rarity": "epic"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kanata:module_legendary",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "kanata:module_with_rarity",
+              "rarity": "legendary"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

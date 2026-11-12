@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kanata:block/return_portal_block"
+    }
+  }
+}

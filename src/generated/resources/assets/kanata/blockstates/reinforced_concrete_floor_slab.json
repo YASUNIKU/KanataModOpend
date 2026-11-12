@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kanata:block/reinforced_concrete_floor_slab"
+    },
+    "type=double": {
+      "model": "kanata:block/reinforced_concrete_floor_block"
+    },
+    "type=top": {
+      "model": "kanata:block/reinforced_concrete_floor_slab_top"
+    }
+  }
+}

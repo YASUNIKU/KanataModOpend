@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kanata:block/reinforced_brick_slab"
+    },
+    "type=double": {
+      "model": "kanata:block/reinforced_brick_block"
+    },
+    "type=top": {
+      "model": "kanata:block/reinforced_brick_slab_top"
+    }
+  }
+}

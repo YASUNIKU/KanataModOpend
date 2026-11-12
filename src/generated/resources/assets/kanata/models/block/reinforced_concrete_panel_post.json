@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "edge": "kanata:block/reinforced_concrete_block",
+    "pane": "kanata:block/reinforced_concrete_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "kanata:block/crumbling_reinforced_concrete_block"
+  }
+}

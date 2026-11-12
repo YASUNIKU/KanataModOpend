@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "edge": "kanata:block/reinforced_brick_block",
+    "pane": "kanata:block/reinforced_brick_block"
+  }
+}

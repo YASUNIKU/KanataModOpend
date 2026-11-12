@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "kanata:block/crumbling_reinforced_concrete_block"
+  }
+}

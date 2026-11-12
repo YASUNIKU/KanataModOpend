@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kanata:block/locker"
+    },
+    "facing=east": {
+      "model": "kanata:block/locker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kanata:block/locker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kanata:block/locker",
+      "y": 270
+    }
+  }
+}

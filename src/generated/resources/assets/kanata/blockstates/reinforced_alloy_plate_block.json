@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kanata:block/reinforced_alloy_plate_block"
+    }
+  }
+}
